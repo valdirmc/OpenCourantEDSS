@@ -1,0 +1,3 @@
+[submodule "openradioss-to-vtkhdf"]
+	path = openradioss-to-vtkhdf
+	url = https://github.com/valdirmc/openradioss-to-vtkhdf.git
